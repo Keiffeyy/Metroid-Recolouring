@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=owner
+comment0.target=EnemyHUD(Enemy)
+comment0.text=\r\n\ \ Constructor.\ \r\n\ \ @param\ owner\ \ \ \ \ The\ enemy\ for\ which\ the\ HUD\ is\ displayed\ for\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Updates\ the\ HUD\r\n
+numComments=2

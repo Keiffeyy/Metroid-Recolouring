@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ playBGM()
+comment0.text=\r\n\ Plays\ the\ background\ music.\r\n
+comment1.params=volume
+comment1.target=void\ setBGMVolume(int)
+comment1.text=\r\n\ Sets\ the\ volume\ of\ the\ background\ music.\r\n\ \r\n\ @param\ volume\ The\ desired\ volume.\r\n
+comment2.params=volume
+comment2.target=void\ setBossDefeatVolume(int)
+comment2.text=\r\n\ Sets\ the\ volume\ of\ the\ boss\ defeat\ music.\r\n\ \r\n\ @param\ volume\ The\ desired\ volume.\r\n
+comment3.params=
+comment3.target=void\ stopBGM()
+comment3.text=\r\n\ Stops\ the\ background\ music.\r\n
+comment4.params=
+comment4.target=void\ switchToBossDefeat()
+comment4.text=\r\n\ Switches\ to\ the\ bossDefeatMusic.\r\n
+comment5.params=
+comment5.target=void\ switchToBGM()
+comment5.text=\r\n\ Switches\ to\ the\ background\ music.\r\n
+numComments=6

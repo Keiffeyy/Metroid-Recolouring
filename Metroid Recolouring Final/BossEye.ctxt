@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BossEye()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ method.\ Maintains\ its\ position\ above\ the\ boss.\r\n
+comment2.params=
+comment2.target=void\ onDeath()
+comment3.params=
+comment3.target=void\ attackMove()
+comment4.params=
+comment4.target=void\ randomMove()
+numComments=5
